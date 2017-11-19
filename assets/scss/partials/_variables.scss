@@ -1,0 +1,48 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 400;
+}
+$border: #ccc;
+$service-bg: #2e3192;
+$clients-bg: #ededed;
+$aboutus-bg: #019dd3;
+$screen-xs: 480px !default; // Small screen / tablet
+$screen-sm: 768px !default; // Medium screen / desktop
+$screen-md: 992px !default;
+$screen-desktop: 992px !default; // Large screen / wide desktop
+$screen-lg-desktop: 1280px !default;
+$screen-laptop: 1366px;
+$screen-hd: 1600px;
+$body-bg: #dddddd;
+$btn-dark-color: #333;
+$grey-dark: #010101;
+$nav-font-weight: 300;
+$primary-button-bg: #E4B023;
+$highlight: rgba(131, 195, 65, 0.32);
+$bubbletext: #EF4137;
+$primary: #00bbfc;
+$secondary: #F9AC00;
+$tertiary: #0D2D41;
+$btn-border: $secondary;
+$btn-bg: $secondary;
+$section2-bg: $primary;
+$section3-bg: #F4F4F4;
+$section4-bg: #F4F4F4;
+$section5-bg: $primary;
+$btn-sub-bg: $secondary;
+$highlight: #D71E48;
+$footer-bg: #04202D;
+$padding-xs: 50px;
+$padding-sm: 50px;
+$padding-md: 70px;
+$padding-lg: 90px;
+$padding-xl: 90px;
+$mobile-banner-height: 430px;
+$tab-banner-height: 430px;
+$lg-desktop-banner-height: 550px;
+$hd-banner-height: 750px;
+$speed: 1s;

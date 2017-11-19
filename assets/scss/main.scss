@@ -1,0 +1,12 @@
+@import "partials/bootstrap/bootstrap";
+@import "partials/fonts";
+@import "partials/variables";
+@import "partials/custom-mixins";
+@import "partials/common";
+@import "partials/header";
+@import "partials/footer";
+//components
+@import "partials/hamburger";
+@import "partials/jquery.bxslider";
+//pages
+@import "partials/homepage";
